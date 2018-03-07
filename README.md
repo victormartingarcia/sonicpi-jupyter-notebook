@@ -1,7 +1,7 @@
 # sonicpi-jupyter-notebook
 Using [sonicpi](http://sonic-pi.net/) inside [jupyter notebooks](http://jupyter.org/).
 
-![Example](https://thumbs.gfycat.com/SnarlingInfantileGuillemot-max-14mb.gif)
+<div style='position:relative;padding-bottom:64%'><iframe src='https://gfycat.com/ifr/SnarlingInfantileGuillemot' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>)
 
 This is quite useful for educational purposes. For example you can teach sonic pi  using an interactive notebook or as exported Reveal.js slideshow.
 
