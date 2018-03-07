@@ -1,9 +1,15 @@
 # sonicpi-jupyter-notebook
-Setup of [sonicpi](http://sonic-pi.net/) into [jupyter notebook](http://jupyter.org/). 
+Using [sonicpi](http://sonic-pi.net/) inside [jupyter notebooks](http://jupyter.org/).
+
+![Example](https://thumbs.gfycat.com/SnarlingInfantileGuillemot-max-14mb.gif)
 
 This is quite useful for educational purposes. For example you can teach sonic pi  using an interactive notebook or as exported Reveal.js slideshow.
 
-To see a real example check the repo for a Sonic Pi crash-course I'm preparing for the technology divulgation event [gitech.cat](http://gitech.cat/): https://github.com/victormartingarcia/2018-gitech-introsonicpi (work in progress) You can see the material as [Jupyter notebook](http://nbviewer.ipython.org/github/victormartingarcia/2018-sonicpi-intropandas/blob/master/sonicpi_introduction.ipynb) or as [Reveal.js slides](http://nbviewer.ipython.org/format/slides/github/victormartingarcia/2018-gitech-introsonicpi/blob/master/sonicpi_introduction.ipynb#/) 
+To see a real example check the repo for a Sonic Pi crash-course I'm preparing for the technology divulgation event [gitech.cat](http://gitech.cat/): 
+
+https://github.com/victormartingarcia/2018-gitech-introsonicpi (work in progress) 
+
+You can see the material as [Jupyter notebook](http://nbviewer.ipython.org/github/victormartingarcia/2018-sonicpi-intropandas/blob/master/sonicpi_introduction.ipynb) or as [Reveal.js slides](http://nbviewer.ipython.org/format/slides/github/victormartingarcia/2018-gitech-introsonicpi/blob/master/sonicpi_introduction.ipynb#/) 
 
 # Installation
 
